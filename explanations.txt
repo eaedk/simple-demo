@@ -1,3 +1,6 @@
 Git : the software for source control or versioning, allows you to do to loose your code.
 GitHub : It is the platform to save your repository online for free.
 
+API definition:
+1. 
+2. 
